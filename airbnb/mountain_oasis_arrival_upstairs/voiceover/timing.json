@@ -1,0 +1,125 @@
+{
+ "lines": [
+  {
+   "id": "l01",
+   "text": "Welcome to Mountain Oasis!",
+   "s": 0.35,
+   "e": 2.031
+  },
+  {
+   "id": "l02",
+   "text": "Here's a quick guide to finding your way from the parking to your front door.",
+   "s": 2.381,
+   "e": 5.719
+  },
+  {
+   "id": "l03",
+   "text": "When you arrive, park in front of the property, where you'll see the blue Mountain Oasis parking signs.",
+   "s": 6.519,
+   "e": 11.294
+  },
+  {
+   "id": "l08",
+   "text": "To reach your unit, you have two options: the elevator, or the stairs.",
+   "s": 11.994,
+   "e": 15.449
+  },
+  {
+   "id": "l09",
+   "text": "If you're using the elevator to the left of the gate, press the yellow button to go up to your pathway.",
+   "s": 16.249,
+   "e": 20.912
+  },
+  {
+   "id": "l10",
+   "text": "To return to the parking area, press the green button.",
+   "s": 21.312,
+   "e": 23.884
+  },
+  {
+   "id": "l11",
+   "text": "Alternatively, enter through the large gate, and follow the signs marked Upstairs.",
+   "s": 24.584,
+   "e": 29.013
+  },
+  {
+   "id": "l12",
+   "text": "Welcome home!",
+   "s": 43.713,
+   "e": 44.605
+  },
+  {
+   "id": "l12b",
+   "text": "Here are a few things to know once you're inside.",
+   "s": 45.105,
+   "e": 47.179
+  },
+  {
+   "id": "l13",
+   "text": "In the front entrance, you'll find the firewood for the hot tub and the fireplace.",
+   "s": 47.779,
+   "e": 51.579
+  },
+  {
+   "id": "l13b",
+   "text": "We provide two bags at check-in. After that, each extra bag is one hundred rand.",
+   "s": 51.929,
+   "e": 56.44
+  },
+  {
+   "id": "l14",
+   "text": "Your Wi-Fi details are in the welcome book on the dining room table.",
+   "s": 57.14,
+   "e": 60.811
+  },
+  {
+   "id": "l15",
+   "text": "Whenever you head outside, please place the pillow in front of the glass door, so it doesn't slam shut in the wind.",
+   "s": 64.011,
+   "e": 69.445
+  },
+  {
+   "id": "l16",
+   "text": "The left-side balcony lights are switched on here, in the living room.",
+   "s": 70.145,
+   "e": 73.33
+  },
+  {
+   "id": "l17",
+   "text": "For the fireplace, everything you need is in the buckets beside it.",
+   "s": 74.03,
+   "e": 77.242
+  },
+  {
+   "id": "l18",
+   "text": "The right-side balcony lights are switched on in the master bedroom.",
+   "s": 77.942,
+   "e": 81.178
+  },
+  {
+   "id": "l18b",
+   "text": "Both balcony lights have a fifteen-minute motion sensor, and switch off automatically when no movement is detected, to save electricity.",
+   "s": 81.578,
+   "e": 88.832
+  },
+  {
+   "id": "l19",
+   "text": "The hairdryer and iron are in the main bedroom cupboards.",
+   "s": 89.532,
+   "e": 92.413
+  },
+  {
+   "id": "l20",
+   "text": "That's it!",
+   "s": 93.213,
+   "e": 93.921
+  },
+  {
+   "id": "l21",
+   "text": "Settle in, make yourself at home, and enjoy your stay at Mountain Oasis!",
+   "s": 94.271,
+   "e": 98.224
+  }
+ ],
+ "total": 99.024
+}
