@@ -1,0 +1,92 @@
+[
+ [
+  "l01",
+  "Welcome to Mountain Oasis!",
+  0.35
+ ],
+ [
+  "l02",
+  "Here's a quick guide to finding your way from the parking to the downstairs unit.",
+  0.8
+ ],
+ [
+  "l03",
+  "When you arrive, park in front of the property, where you'll see the blue Mountain Oasis parking signs.",
+  0.7
+ ],
+ [
+  "l08",
+  "To reach your unit, you have two options: the elevator, or the stairs.",
+  0.8
+ ],
+ [
+  "l09",
+  "If you're using the elevator, press the blue button. It takes you directly to your front entrance.",
+  0.4
+ ],
+ [
+  "l10",
+  "To return to the parking area, press the green button.",
+  0.7
+ ],
+ [
+  "l11",
+  "Alternatively, enter through the large gate, and follow the signs up the stairs.",
+  10.39
+ ],
+ [
+  "l11b",
+  "At this sign, head left, towards Downstairs and Bungalow.",
+  8.7
+ ],
+ [
+  "l12",
+  "Welcome home!",
+  0.6
+ ],
+ [
+  "l12b",
+  "Here are a few things to know once you're inside.",
+  0.6
+ ],
+ [
+  "l14",
+  "Your Wi-Fi password is in the welcome book on the table.",
+  0.7
+ ],
+ [
+  "l13",
+  "All the keys are stored in the basket in the kitchen.",
+  0.8
+ ],
+ [
+  "l16",
+  "The left-side balcony lights are switched on in the living room.",
+  0.5
+ ],
+ [
+  "l18",
+  "The right-side balcony lights are switched on in the main bedroom.",
+  0.4
+ ],
+ [
+  "l18b",
+  "Both balcony lights have a fifteen-minute motion sensor, and switch off automatically when no movement is detected, to save electricity.",
+  0.7
+ ],
+ [
+  "l19",
+  "The hairdryer and iron are in the bedroom cupboards.",
+  0.8
+ ],
+ [
+  "l20",
+  "That's it!",
+  0.35
+ ],
+ [
+  "l21",
+  "Settle in, make yourself at home, and enjoy your stay at Mountain Oasis!",
+  0.8
+ ]
+]
